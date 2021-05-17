@@ -128,7 +128,7 @@
             <div class="popupContent">
                 <div class="contentTop clearfix">
                     <div class="left">
-                        <h3><span class="name">김게토</span> <span class="hp">010-1234-5678</span></h3>
+                        <h3><span class="name">정준수</span> <span class="hp">010-1234-5678</span></h3>
                         <p>통화가능시간 10:00~19:00</p>
                     </div>
                     <div class="btnArea">
@@ -137,8 +137,8 @@
                 </div>
                 <div class="contentBottom">
                     <p>
-                        경기 성남시 김게토입니다.<br>
-                        통화가 어려울 경우 카카오톡 (@eunneee) 친구 추가 후 메모 남겨주시면 신속하게 답변해드리겠습니다.
+                        경기 성남시 입니다.<br>
+                        메모 남겨주시면 신속하게 답변해드리겠습니다.
                     </p>
                 </div>
             </div>
